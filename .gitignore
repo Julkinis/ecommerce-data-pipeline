@@ -1,0 +1,27 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Airflow runtime files
+logs/
+airflow.db
+airflow.cfg
+webserver_config.py
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+
+# Temporary and backup files
+*.bak
+*.log
