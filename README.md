@@ -1,6 +1,9 @@
 # E-commerce Data Pipeline
 
 Учебный проект по построению ETL-пайплайна для обработки данных электронной коммерции и подготовки аналитических метрик.
+<img width="1426" height="839" alt="image" src="https://github.com/user-attachments/assets/9116c331-58b2-47de-97ae-9322d5226e24" />
+<img width="739" height="330" alt="image" src="https://github.com/user-attachments/assets/505f8d8f-6ee4-4e08-af07-02609432d878" />
+
 
 ## Цель проекта
 
